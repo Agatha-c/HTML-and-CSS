@@ -1,0 +1,42 @@
+body{ 
+    font-family: _____;
+    background-color: #FFE3E3;
+}
+
+.t{
+    color: #FFC7C7;
+    background-color: #8785A2;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+
+    border-width: 5px;
+    border-style: solid ;
+    border-color: #181D31;
+    border-radius: 30px 30px 30px 30px;
+}
+
+
+.serialImg {
+    float: left;
+    width: 350px;
+    margin: right 50px;
+    padding: 100px;
+}
+
+.textList {
+    float:right;
+    width: 350px;
+    margin: right 10px;
+    font-family: Veranda;
+    
+}
+
+.subTitle {
+    color:__;
+    background-color:__;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: Veranda;
+}
